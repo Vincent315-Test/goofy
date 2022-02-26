@@ -49,7 +49,7 @@
     "electron-spellchecker": "^2.2.1",
     "electron-store": "^2.0.0",
     "electron-window-state": "^5.0.3",
-    "fs-jetpack": "^0.10.5",
+    "fs-jetpack": "^0.13.3",
     "menubar": "^5.2.0"
   }
 }
